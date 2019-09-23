@@ -1,4 +1,9 @@
 # E04a-Sprites Exercise
+# Description:
+# In main1, we learned how to create and draw animals with random and forloop.
+# In main2, we learned how to use the list and set the location of the sprites.
+# In main3, we learned how to create a update method and how to handle the mouse motion.
+# In main4, we apply what we learned from main 1 to 3 and create a collage.
 
 This is an exercise to start experimenting with sprites in Python Arcade. This repository assumes that you have Python Arcade installed.
 
